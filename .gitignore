@@ -42,7 +42,7 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
-/Middleware
 /.vs
-/MiddlewareExample
-/ProjectEvaluation
+/Middleware/.vs
+/MiddlewareExample/.vs
+
