@@ -44,4 +44,5 @@ _[Ss]cripts
 *.dot[Cc]over
 /.vs
 /Middleware/.vs
+/MiddlewareExample/.vs
 
